@@ -1,0 +1,10 @@
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\bin\Debug\GameBanGa.exe.config
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\obj\Debug\GameBanGa.Display.frmScreen.resources
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\obj\Debug\GameBanGa.Properties.Resources.resources
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\obj\Debug\GameBanGa.csproj.GenerateResource.Cache
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\bin\Debug\GameBanGa.exe
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\bin\Debug\GameBanGa.pdb
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\obj\Debug\GameBanGa.exe
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\obj\Debug\GameBanGa.pdb
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\obj\Debug\GameBanGa.csproj.AssemblyReference.cache
+E:\LAPTRINHGIAODIEN\Game\GameBanGa\GameBanGa\obj\Debug\GameBanGa.csproj.CoreCompileInputs.cache
